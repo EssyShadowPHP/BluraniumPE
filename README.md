@@ -1,13 +1,13 @@
-## Bluranium
+# Bluranium
 Bluranium This is an excellent server software for Minecraft: Pocket Edition & Windows 10 Edition v1.1.x
 
-# Introduction
+## Introduction
 Bluranium is a multifunctional software for Minecraft: Pocket Edition & Windows 10 Edition v1.1.x based on [PocketMine-MP](https://github.com/pmmp/PocketMine-MP) and [Prismarine](https://github.com/PrismarineMC/Prismarine).
 Part of the code was written by the PocketMine Team.
 We want to succeed in developing this software
 Note: the core only has Russian language, will be multilingual soon
 
-# Features
+## Features
 - [x] Map
 - [x] Enchantments
 - [x] Songs Box
@@ -20,7 +20,7 @@ Note: the core only has Russian language, will be multilingual soon
 - [x] NPC
 - [x] Interface bubbles
 
-# List of cases
+## List of cases
 * Villager Trading
 * More Methods
 * Jukebox
@@ -30,17 +30,17 @@ Note: the core only has Russian language, will be multilingual soon
 * Fireworks
 * Multi-core
 
-## Known bugs
+### Known bugs
 * The map is shown for 20 seconds
 * DATE_FLAGS disappears from Evoker
 
-## Can I test this before I download it?
+### Can I test this before I download it?
 Yes, you can check on the project:
 
 * IP: pe.blumix.ru
 * PORT: 19132
 
-## For developers
+### For developers
  * [DevTools](https://github.com/pmmp/PocketMine-DevTools/) - Development tools plugin for creating plugins
  * [ExamplePlugin](https://github.com/pmmp/ExamplePlugin/) - Example plugin demonstrating some basic API features
  * [Pocket Server](https://github.com/fengberd/MinecraftPEServer) - Run PocketMine-MP/Nukkit on Android devices
