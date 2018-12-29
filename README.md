@@ -1,4 +1,4 @@
-# Bluranium
+## Bluranium
 Bluranium This is an excellent server software for Minecraft: Pocket Edition & Windows 10 Edition v1.1.x
 
 # Introduction
@@ -30,11 +30,11 @@ Note: the core only has Russian language, will be multilingual soon
 * Fireworks
 * Multi-core
 
-# Known bugs
+## Known bugs
 * The map is shown for 20 seconds
 * DATE_FLAGS disappears from Evoker
 
-# Can I test this before I download it?
+## Can I test this before I download it?
 Yes, you can check on the project:
 
 * IP: pe.blumix.ru
