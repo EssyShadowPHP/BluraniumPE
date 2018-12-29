@@ -21,14 +21,14 @@ Note: the core only has Russian language, will be multilingual soon
 - [x] Interface bubbles
 
 ## List of cases
-* Villager Trading
-* More Methods
-* Jukebox
-* Virtual inventory without a chest
-* Fishing
-* MobAI
-* Fireworks
-* Multi-core
+- [ ] Villager Trading
+- [ ] More Methods
+- [ ] Jukebox
+- [x] Virtual inventory without a chest
+- [ ] Fishing
+- [x] MobAI
+- [ ] Fireworks
+- [x] Multi-core (0.1.3.0 - 1.6)
 
 ### Known bugs
 * The map is shown for 20 seconds
